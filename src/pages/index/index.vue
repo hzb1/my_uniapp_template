@@ -2,7 +2,8 @@
   <view class="content">
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
-      <text class="title">{{ title }}</text>
+      <text class="title">{{ title }}hi</text>
+<!--      <text class="title">{{ title }}hi 我是热更新的内容</text>-->
     </view>
   </view>
 </template>
